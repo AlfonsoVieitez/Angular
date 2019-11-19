@@ -21,7 +21,7 @@
 
 > **Práctica:** Crear una aplicación con el CLI de Angular llamada balance que sea enrutable.
 
-## II.2 Páginas y rutas
+## II.2 [Páginas y rutas](https://github.com/abanca-ITforce/Angular/blob/master/II-2%20P%C3%A1ginas%20y%20rutas.md)
 
 ### Módulos y componentes
 ### Rutas: lazy y con parámetros
