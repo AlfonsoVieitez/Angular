@@ -11,15 +11,15 @@
 
 > Crear una aplicación con Angular para el control de ingresos, gastos y balance financiero personal.
 
-### [Github Classroom Assignment](https://classroom.github.com/g/ri5wYiSB)
+### [GitHub Classroom Assignment](https://classroom.github.com/g/ri5wYiSB)
 
-- **Fila 1:** [Repositorio](https://github.com/abanca-ITforce/balance-fila1) - [Aplicación](https://abanca-itforce.github.io/balance-fila1/)
+- **Fila 1:** [Repositorio](https://github.com/abanca-ITforce/balance-fila1) - [balance-fila1](https://abanca-itforce.github.io/balance-fila1/)
 
-- **Fila 2:** [Repositorio](https://github.com/abanca-ITforce/balance-fila2) - [Aplicación](https://abanca-itforce.github.io/balance-fila2/)
+- **Fila 2:** [Repositorio](https://github.com/abanca-ITforce/balance-fila2) - [balance-fila2](https://abanca-itforce.github.io/balance-fila2/)
 
-- **Fila 3:** [Repositorio](https://github.com/abanca-ITforce/balance-fila3) - [Aplicación](https://abanca-itforce.github.io/balance-fila3/)
+- **Fila 3:** [Repositorio](https://github.com/abanca-ITforce/balance-fila3) - [balance-fila3](https://abanca-itforce.github.io/balance-fila3/)
 
-- **Fila 4:** [Repositorio](https://github.com/abanca-ITforce/balance-filacuatro) - [Aplicación](https://abanca-itforce.github.io/balance-filacuatro/)
+- **Fila 4:** [Repositorio](https://github.com/abanca-ITforce/balance-filacuatro) - [balance-filacuatro](https://abanca-itforce.github.io/balance-filacuatro/)
 
 ## II.1 [Herramientas](https://github.com/abanca-ITforce/Angular/blob/master/II-1%20Herramientas.md)
 
@@ -35,12 +35,12 @@
 
 > **Práctica:** Crear módulos para las rutas básicas de la aplicación: `/`, `/nuevo`, `/lista`, `/detalle:id`.
 
-## II.3 Presentación de datos
+## II.3 Presentación de datos(https://github.com/abanca-ITforce/Angular/blob/master/II-32%20P%C3%A1ginas%20y%20rutas.md)
 
 ### Material Design y Flex-box
 ### Directivas y pipes
 
-> **Práctica:** Menú de navegación, página de home de balance con datos de prueba.
+> **Práctica:** Menú de navegación, página home de balance con datos de prueba.
 
 ## II.4 Formularios
 
