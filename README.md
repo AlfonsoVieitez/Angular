@@ -35,7 +35,7 @@
 
 > **Práctica:** Crear módulos para las rutas básicas de la aplicación: `/`, `/nuevo`, `/lista`, `/detalle:id`.
 
-## II.3 Presentación de datos(https://github.com/abanca-ITforce/Angular/blob/master/II-32%20P%C3%A1ginas%20y%20rutas.md)
+## II.3 Presentación de datos(https://github.com/abanca-ITforce/Angular/blob/master/II-3%20Presentaci%C3%B3n%20de%20datos.md)
 
 ### Material Design y Flex-box
 ### Directivas y pipes
