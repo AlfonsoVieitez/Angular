@@ -20,6 +20,7 @@
 
 - [ ] Agregar Material design
 - [ ] Crear un navegador principal
+- [ ] Maquetar dashboard, form y table con datos fake
 
 
 ### Extra
