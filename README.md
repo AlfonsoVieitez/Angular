@@ -56,7 +56,7 @@
 
 > **Práctica:** Servicio inyectable para mantener en memoria el listado de movimientos. CRUD y filtros básicos de búsqueda.
 
-## II.6 Componentes complejos
+## II.6 [Componentes complejos](https://github.com/abanca-ITforce/Angular/blob/master/II-56%20Componentes%20complejos.md)
 
 ### Reparto de responsabilidades
 ### Patrón contenedor/presentadores
