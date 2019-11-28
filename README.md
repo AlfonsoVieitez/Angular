@@ -63,14 +63,14 @@
 
 > **Práctica:** Página de con un componente contenedor para búsqueda de movimientos con dos componentes presentadores para filtro y listado. Página para ver el detalle de un movimiento concreto.
 
-## II.7 Comunicaciones Http
+## II.7 Comunicaciones Http(https://github.com/abanca-ITforce/Angular/blob/master/II-7%20Comunicaciones%20Http.md)
 
 ### Envío/recepción de datos
 ### Suscripción y asincronismo
 
 > **Práctica:** Guardar y obtener los movimientos en un servidor REST abierto proporcionado por el profesor.
 
-## II.8 Observables
+## II.8 Observables(https://github.com/abanca-ITforce/Angular/blob/master/II-8%20Observables.md)
 
 ### Manipulación mediante operadores pipe
 ### Emisión de eventos
